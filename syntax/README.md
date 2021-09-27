@@ -111,7 +111,7 @@ you are done! Congratulations, you've completed the Syntax Lab! Submityour lab u
 To submit your code, execute
 
 ```
-submit50 punahou/cs50labs/2020/syntax
+submit50 drichardi/cs50labs/2020/syntax
 ```
 
 Your submission should be graded for corretness and style withing a few minutes on [the me50 course page](https://submit.cs50.io/)
